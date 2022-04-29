@@ -6,4 +6,4 @@ Spoiler alert: it may contain syntax errors.
 
 By Daniel Wang <danwyk@umich.edu>
 
-![image](https://github.com/danwyk/Resume_Template/blob/main/Resume_Template.png)
+![image](https://github.com/danwyk/Resume_Template/blob/main/Preview.png)
